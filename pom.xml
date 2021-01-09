@@ -12,6 +12,8 @@
         <module>leetcode</module>
         <module>ctci</module>
         <module>educative.io</module>
+        <module>datastructures</module>
+        <module>algorithms</module>
     </modules>
 
     <dependencies>
