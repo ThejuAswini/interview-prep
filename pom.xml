@@ -14,6 +14,7 @@
         <module>educative.io</module>
         <module>datastructures</module>
         <module>algorithms</module>
+        <module>Company-Based</module>
     </modules>
 
     <dependencies>
