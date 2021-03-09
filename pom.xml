@@ -15,6 +15,7 @@
         <module>datastructures</module>
         <module>algorithms</module>
         <module>Company-Based</module>
+        <module>dailycodingproblems</module>
     </modules>
 
     <dependencies>
